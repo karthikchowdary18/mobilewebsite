@@ -1,0 +1,136 @@
+* {
+    padding: 0%;
+    margin: auto;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    text-decoration: none;
+}
+.header{
+    background:whitesmoke;
+    position:relative;
+}
+h1{
+    font-size: 32px;
+}
+
+.col{
+    margin: 1%;
+    margin-left: 0%;
+    float: left;
+    text-align: center;
+    color: black;
+    /* font-weight: 900; */
+}
+
+.col2{
+    padding-top: 1%;
+    padding-bottom: 2%;
+    padding-left: 17%;
+    padding-right: 15%;
+    float:left;
+}
+
+.ff{
+    padding: 5%;
+    padding-right: 0%;
+    width: 200%;
+    border-radius: 4%;
+}
+.col3{
+    padding: 1.6%;
+    text-align: right;
+}
+.col4{
+    background-color: white;
+    padding: 0.5%;
+    border-radius: 10px;
+    font-weight: 900;
+    font-size: large;
+    color: rgb(21, 12, 17);
+}
+h6{
+    font-weight: bold;
+}
+.header2 {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20%;
+  float: left;
+}
+
+.header2 .circle {
+  display: inline-block;
+  margin-left: 100px;
+}
+.header2 h6 {
+    margin-right: 100px;
+    color: black;
+  }
+
+.scrFit{
+    padding: 1%;
+}
+
+.sideheading{
+    color: rgb(5, 6, 6);
+    padding: 2% 2% 2% 2%;
+    font-size: 190%;
+}
+.col7{
+    /* float: right; */
+    padding: 0.4%;
+    margin: 0%;
+    /* padding: 1% 6% 1% 6%; */
+}
+
+.col7 img{
+    float: left;
+    height: 29%;
+    width: 29%;
+    padding: 1.6%;
+}
+.col0 img{
+    float: left;
+    width:30%;
+    padding: 1.6%;
+}
+
+
+.footright{
+    float: right;
+    padding: 5% 15% 5% 5% ;
+
+}
+
+.footleft{
+    float: left;
+    padding: 5%;
+    color: black;
+}
+
+.footleft img{
+    height: 15%;
+    width: 15%;
+    padding: 1%;
+}
+
+/* .circle{
+    background-color: white;
+    padding: 2%;
+    border-radius: 50%;
+} */
+
+.foot
+{
+    height: 280px;
+    width: 100%;
+    background:whitesmoke;
+    position: absolute;
+    bottom: -1084px;
+    color: white;
+    font-weight: bolder;
+}
+.fff{
+    float: left;
+    padding: 5%; 
+}
