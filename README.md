@@ -1,6 +1,12 @@
 # mobilewebsite
 Welcome to KC Mobiles, a website showcasing mobile products and services. This website is designed using HTML and CSS.
 
+# deployment
+you can click on this link and go through the interface
+(https://645d231507cc1c08519d49a4--thunderous-salamander-48eae1.netlify.app/)
+
+<br>
+
 ![mobile page](https://github.com/karthikchowdary18/mobilewebsite/assets/121443020/62c088ea-0d54-4cdd-a14a-1f495d49aacd)
 
 # Features
